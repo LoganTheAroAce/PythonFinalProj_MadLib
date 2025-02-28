@@ -19,3 +19,5 @@ Step 3: Paste the code in a program or website that lets you run python code
 Step 4: Run the program
 
 Step 5: Done!
+
+[NOTE: I Would Recommend Looking at the code first, as if you don't, you may get used to downloading random stuff off of github. While this is mostly safe, as GitHub Seems to be good at preventing malicous code from being uploaded, There is always the chance that one will manage to get through.]
